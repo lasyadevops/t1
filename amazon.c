@@ -1,5 +1,4 @@
-S.NO   customer name       phone number              email id               order id          payment status         product status
-
+S.NO   Customer Name       Phone Number              Email ID               Order ID          Payment Status         Product Status
 1.      Siddharth          xxxxxxxxxx             siddu18@gmail.com          56743              online                  delivered
 2.      Nitesh             xxxxxxxxxx             nitesh4@gmail.com          78654              cash on del             not delivered
 3.      Saranya            xxxxxxxxxx             saru18@gmail.com           88854              online                  delivered
@@ -10,4 +9,3 @@ S.NO   customer name       phone number              email id               orde
 8.      Meenakshi          xxxxxxxxxx             meenu25@gmail.com          72398              cash on del             delivered
 9.      Tejaswi            xxxxxxxxxx             teju16@gmail.com           34732              online                  not delivered 
 10.     Dhanu sree         xxxxxxxxxx             dhanu23@gmail.com          56789              online                  delivered
-
